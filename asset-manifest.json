@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.185a3d0d.css",
+    "main.js": "/static/js/main.17a328f1.js",
+    "static/media/sertificate3.jpg": "/static/media/sertificate3.c4db66b9862202a4056b.jpg",
+    "static/media/pdf2.pdf": "/static/media/pdf2.1e995c7b327a59b519f1.pdf",
+    "static/media/sertificate1.jpg": "/static/media/sertificate1.93f54531a11f3308c340.jpg",
+    "static/media/subs2.jpg": "/static/media/subs2.35f74b1bf619de276164.jpg",
+    "static/media/Asthma.gif": "/static/media/Asthma.05f33eff81e6ab99db88.gif",
+    "static/media/sertificate4.JPG": "/static/media/sertificate4.b6d0c9e1c343b1cf5d3f.JPG",
+    "static/media/medical.png": "/static/media/medical.dc9afb1dba19b6b87a10.png",
+    "static/media/sertificate2.jpg": "/static/media/sertificate2.48895a8cfd96751b45d9.jpg",
+    "static/media/slider3.jpg": "/static/media/slider3.292f5180683982ad4241.jpg",
+    "static/media/slider1.jpg": "/static/media/slider1.9ff9d8ab0132e3f428ff.jpg",
+    "static/media/slider2.jpg": "/static/media/slider2.462b9566729e28dc773e.jpg",
+    "static/media/pdf3.pdf": "/static/media/pdf3.d858c332283b5b915abd.pdf",
+    "static/media/pdf4.pdf": "/static/media/pdf4.6f2e4575cbe86383712c.pdf",
+    "static/media/pdf1.PDF": "/static/media/pdf1.2de00643beb7b62cd08b.PDF",
+    "static/media/subs4.jpg": "/static/media/subs4.b91c1d650cc53f5aa994.jpg",
+    "static/media/subsAbout.jpg": "/static/media/subsAbout.ebada0a71ba059591a8c.jpg",
+    "static/media/subs8.jpg": "/static/media/subs8.2cfbe0b32de76d2cb6de.jpg",
+    "static/media/badImage.jpg": "/static/media/badImage.3bdbd95b524b71149cd4.jpg",
+    "static/media/hiSay.jpg": "/static/media/hiSay.94d0a5890193961d4240.jpg",
+    "static/media/subs3.jpg": "/static/media/subs3.b06da52465c5e907bbe6.jpg",
+    "static/media/logo2.png": "/static/media/logo2.a7c1983df1b49d0c923f.png",
+    "static/media/subs7.jpg": "/static/media/subs7.ff8357ee6a68662f74d8.jpg",
+    "static/media/subs5.jpeg": "/static/media/subs5.a02fd8b0514fedd0376c.jpeg",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "static/media/getFetch.cjs": "/static/media/getFetch.40f37ddea2378391108f.cjs",
+    "main.185a3d0d.css.map": "/static/css/main.185a3d0d.css.map",
+    "main.17a328f1.js.map": "/static/js/main.17a328f1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.185a3d0d.css",
+    "static/js/main.17a328f1.js"
+  ]
+}
